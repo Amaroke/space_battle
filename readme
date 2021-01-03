@@ -1,0 +1,5 @@
+L'intégralité des constantes de vitesse ou de points de vie, ou alors du nombre d'ennemis par vague sont modifiables.
+(Dans le biblio.h)
+
+Les tests ne sont plus fonctionnels depuis les améliorations et modifications du code, il faut regarder une version antérieur.
+Ils marchaient très bien pour les niveaux 1,2 et 3.
